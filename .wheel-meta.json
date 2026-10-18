@@ -1,0 +1,22 @@
+{
+  "wheel_id": 408,
+  "structure": "umbrella",
+  "slug": "bigthingbible-104",
+  "project": "big-things-australia-suburb-guide-50b952720353c3b3708e6d7efad26",
+  "parent_t1_ref": "bigthingbible-151",
+  "node_role": "feeder",
+  "money_target": "bigthingbible.com.au",
+  "primary_kw": "big things australia suburb guide",
+  "intended_url": "https://sites-e470-2.web.app/big-things-australia-suburb-guide-50b952720353c3b3708e6d7efad26/",
+  "tier": "T2",
+  "writeback_nonce": "4e18732d613d9f57",
+  "links": [
+    {
+      "target_url": "http://big-things-australia-signs-you-need-40af43f06856efdf7ea817f1c25.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "Big Things Australia Signs You Need: Signs You Need to See",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
